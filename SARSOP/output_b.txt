@@ -1,0 +1,168 @@
+S_00_00_0 0
+S_00_00_1 0
+S_00_01_0 0
+S_00_01_1 0
+S_00_02_0 0
+S_00_02_1 0
+S_00_03_0 0
+S_00_03_1 0
+S_00_10_0 0
+S_00_10_1 0
+S_00_11_0 0
+S_00_11_1 0
+S_00_12_0 0
+S_00_12_1 0
+S_00_13_0 0
+S_00_13_1 0
+S_01_00_0 0
+S_01_00_1 0
+S_01_01_0 0
+S_01_01_1 0
+S_01_02_0 0
+S_01_02_1 0
+S_01_03_0 0
+S_01_03_1 0
+S_01_10_0 0
+S_01_10_1 0
+S_01_11_0 0
+S_01_11_1 0
+S_01_12_0 0
+S_01_12_1 0
+S_01_13_0 0
+S_01_13_1 0
+S_02_00_0 0
+S_02_00_1 0
+S_02_01_0 0
+S_02_01_1 0
+S_02_02_0 0
+S_02_02_1 0
+S_02_03_0 0
+S_02_03_1 0
+S_02_10_0 0
+S_02_10_1 0
+S_02_11_0 0
+S_02_11_1 0
+S_02_12_0 0
+S_02_12_1 0
+S_02_13_0 0
+S_02_13_1 0
+S_03_00_0 0
+S_03_00_1 0
+S_03_01_0 0
+S_03_01_1 0
+S_03_02_0 0
+S_03_02_1 0
+S_03_03_0 0
+S_03_03_1 0
+S_03_10_0 0
+S_03_10_1 0
+S_03_11_0 0
+S_03_11_1 0
+S_03_12_0 0
+S_03_12_1 0
+S_03_13_0 0
+S_03_13_1 0
+S_10_00_0 0
+S_10_00_1 0
+S_10_01_0 0
+S_10_01_1 0
+S_10_02_0 0
+S_10_02_1 0
+S_10_03_0 0
+S_10_03_1 0
+S_10_10_0 0
+S_10_10_1 0
+S_10_11_0 0
+S_10_11_1 0
+S_10_12_0 0
+S_10_12_1 0
+S_10_13_0 0
+S_10_13_1 0
+S_11_00_0 0
+S_11_00_1 0
+S_11_01_0 0.25
+S_11_01_1 0
+S_11_02_0 0
+S_11_02_1 0
+S_11_03_0 0
+S_11_03_1 0
+S_11_10_0 0.25
+S_11_10_1 0
+S_11_11_0 0.25
+S_11_11_1 0
+S_11_12_0 0.25
+S_11_12_1 0
+S_11_13_0 0
+S_11_13_1 0
+S_12_00_0 0
+S_12_00_1 0
+S_12_01_0 0
+S_12_01_1 0
+S_12_02_0 0
+S_12_02_1 0
+S_12_03_0 0
+S_12_03_1 0
+S_12_10_0 0
+S_12_10_1 0
+S_12_11_0 0
+S_12_11_1 0
+S_12_12_0 0
+S_12_12_1 0
+S_12_13_0 0
+S_12_13_1 0
+S_13_00_0 0
+S_13_00_1 0
+S_13_01_0 0
+S_13_01_1 0
+S_13_02_0 0
+S_13_02_1 0
+S_13_03_0 0
+S_13_03_1 0
+S_13_10_0 0
+S_13_10_1 0
+S_13_11_0 0
+S_13_11_1 0
+S_13_12_0 0
+S_13_12_1 0
+S_13_13_0 0
+S_13_13_1 0
+call is 0, S_00_00_1 Actions.STAY
+call is 0, S_00_00_1 Actions.UP
+call is 0, S_00_00_1 Actions.DOWN
+call is 0, S_00_00_1 Actions.LEFT
+call is 0, S_00_00_1 Actions.RIGHT
+call is 0, S_01_01_1 Actions.STAY
+call is 0, S_01_01_1 Actions.UP
+call is 0, S_01_01_1 Actions.DOWN
+call is 0, S_01_01_1 Actions.LEFT
+call is 0, S_01_01_1 Actions.RIGHT
+call is 0, S_02_02_1 Actions.STAY
+call is 0, S_02_02_1 Actions.UP
+call is 0, S_02_02_1 Actions.DOWN
+call is 0, S_02_02_1 Actions.LEFT
+call is 0, S_02_02_1 Actions.RIGHT
+call is 0, S_03_03_1 Actions.STAY
+call is 0, S_03_03_1 Actions.UP
+call is 0, S_03_03_1 Actions.DOWN
+call is 0, S_03_03_1 Actions.LEFT
+call is 0, S_03_03_1 Actions.RIGHT
+call is 0, S_10_10_1 Actions.STAY
+call is 0, S_10_10_1 Actions.UP
+call is 0, S_10_10_1 Actions.DOWN
+call is 0, S_10_10_1 Actions.LEFT
+call is 0, S_10_10_1 Actions.RIGHT
+call is 0, S_11_11_1 Actions.STAY
+call is 0, S_11_11_1 Actions.UP
+call is 0, S_11_11_1 Actions.DOWN
+call is 0, S_11_11_1 Actions.LEFT
+call is 0, S_11_11_1 Actions.RIGHT
+call is 0, S_12_12_1 Actions.STAY
+call is 0, S_12_12_1 Actions.UP
+call is 0, S_12_12_1 Actions.DOWN
+call is 0, S_12_12_1 Actions.LEFT
+call is 0, S_12_12_1 Actions.RIGHT
+call is 0, S_13_13_1 Actions.STAY
+call is 0, S_13_13_1 Actions.UP
+call is 0, S_13_13_1 Actions.DOWN
+call is 0, S_13_13_1 Actions.LEFT
+call is 0, S_13_13_1 Actions.RIGHT
